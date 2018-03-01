@@ -1,0 +1,59 @@
+{
+    "date": {
+        "0": "{'2016-03-29': {'frequency': 11726}}"
+    },
+    "host_name": {
+        "0": "{'Martijn': {'frequency': 3422}}"
+    },
+    "last_review": {
+        "0": "{'2017-05-28': {'frequency': 5636}}"
+    },
+    "name": {
+        "0": "{'Amsterdam': {'frequency': 726}}"
+    },
+    "neighbourhood": {
+        "0": "{'De Baarsjes - Oud-West': {'frequency': 103502}}"
+    },
+    "room_type": {
+        "0": "{'Entire home\/apt': {'frequency': 479278}}"
+    },
+    "Unnamed: 0.1": {
+        "0": 94253.6481318
+    },
+    "availability_365": {
+        "0": 116.543903773
+    },
+    "calculated_host_listings_count": {
+        "0": 4.1811819673
+    },
+    "host_id": {
+        "0": 28002162.7853000015
+    },
+    "id": {
+        "0": 8875684.0775899999
+    },
+    "latitude": {
+        "0": 52.3654592327
+    },
+    "listing_id": {
+        "0": 4549292.9637199994
+    },
+    "longitude": {
+        "0": 4.8888765767
+    },
+    "minimum_nights": {
+        "0": 2.8322812598
+    },
+    "neighbourhood_group": {
+        "0": null
+    },
+    "number_of_reviews": {
+        "0": 16.9786106003
+    },
+    "price": {
+        "0": 136.002790066
+    },
+    "reviews_per_month": {
+        "0": 1.3640538499
+    }
+}
